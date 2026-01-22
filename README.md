@@ -1,21 +1,18 @@
 <h1>🕒 DannG‑Dev Cronometer</h1>
 <br>
 <br>
-<br>
 <p>A modern and responsive web stopwatch built with HTML, CSS, and JavaScript — created to demonstrate front‑end fundamentals such as time logic, DOM manipulation, and clean UI design.</p>
 <br>
 <br>
 <h3>🔗 Live Demo (GitHub Pages):</h3>
 <br>
-<a hrfe="https://danngdev.github.io/DannG-Dev-Cronometer/"/> 
-<br>
+<p>[click here](https://danngdev.github.io/DannG-Dev-Cronometer/)</p>
 <br>
 <br>
 <h1>📌 About the Project</h1>
 <br>
 <p>DannG‑Dev Cronometer is an interactive web‑based stopwatch that allows users to start, pause, mark laps, and reset time. The project focuses on simplicity, clarity, and smooth user interaction, making it a solid example of core JavaScript logic applied to a real UI.</p>
 <p>This project is part of my front‑end development portfolio and was intentionally built without frameworks, highlighting my understanding of vanilla JavaScript and browser APIs.</p>
-<br>
 <br>
 <br>
 <h1>🚀 Features</h1>
@@ -26,7 +23,6 @@
   <li>Display hours, minutes, seconds, and milliseconds</li>
   <li>Clean and responsive interface</li>
 </ul>
-<br>
 <br>
 <br>
 <h1>🧰 Technologies Used</h1>
