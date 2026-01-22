@@ -6,7 +6,7 @@
 <br>
 <h3>🔗 Live Demo (GitHub Pages):</h3>
 <br>
-<p>[click here](https://danngdev.github.io/DannG-Dev-Cronometer/)</p>
+[click here](https://danngdev.github.io/DannG-Dev-Cronometer/)
 <br>
 <br>
 <h1>📌 About the Project</h1>
@@ -28,9 +28,9 @@
 <h1>🧰 Technologies Used</h1>
 <br>
 <ol>
-  <li>![HTML5](https://img.shields.io) - Semantic structure and layout</li>
-  <li>![CSS3](https://img.shields.io) - Styling, layout, and responsiveness</li>
-  <li>![JavaScript](https://img.shields.io) - Time calculation, event handling, and DOM manipulation</li>
+  <li> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> - Semantic structure and layout</li>
+  <li> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> - Styling, layout, and responsiveness</li>
+  <li> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> - Time calculation, event handling, and DOM manipulation</li>
 </ol>
 <br>
 <p>No external libraries or frameworks were used.</p>
