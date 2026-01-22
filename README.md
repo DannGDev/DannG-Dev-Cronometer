@@ -1,4 +1,4 @@
-<img src="./assets/project.jpg" rel="project image"/>
+<img src="./assets/projectImage.png" rel="project image"/>
 <h1>🕒 DannG‑Dev Cronometer</h1>
 <br>
 <br>
