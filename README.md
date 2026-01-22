@@ -4,9 +4,9 @@
 <p>A modern and responsive web stopwatch built with HTML, CSS, and JavaScript — created to demonstrate front‑end fundamentals such as time logic, DOM manipulation, and clean UI design.</p>
 <br>
 <br>
-<h3>🔗 Live Demo (GitHub Pages):</h3>
+<h1>🔗 Live Demo (GitHub Pages):</h1>
 <br>
-[click here](https://danngdev.github.io/DannG-Dev-Cronometer/)
+(https://danngdev.github.io/DannG-Dev-Cronometer/)
 <br>
 <br>
 <h1>📌 About the Project</h1>
